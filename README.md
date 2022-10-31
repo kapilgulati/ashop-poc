@@ -1,4 +1,4 @@
-# ct-react-test
+# Forked from https://github.com/commercetools-demo/ct-react-test
 
 A simple React app for testing various API functions from the browser.
 This example calls the product projections Search API to fetch a list of products.
